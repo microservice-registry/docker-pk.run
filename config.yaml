@@ -8,7 +8,7 @@ default_context:
   pypi_username: "4383"
   version: "0.1.0"
   use_pytest: "n"
-  use_pypi_deployment_with_travis: "n"
+  use_pypi_deployment_with_travis: "y"
   command_line_interface: "Click"
   create_author_file: "y"
   open_source_license: "GNU General Public License v3"
